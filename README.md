@@ -1,6 +1,6 @@
 # Planos Românticos com minha namorada
 
-[Gata](./gata.jpeg) 
-[Gato](./gato.jpeg)
+[Gata](./gata.jpg) 
+[Gato](./gato.jpg)
 
 Repositório de ideias para manter o sentimento vivo. <3
