@@ -1,5 +1,5 @@
 # Planos Românticos com minha namorada
 
-![./gata.jpeg](Gata) ![./gato.jpeg](Gato)
+![Gata](./gata.jpeg) ![Gato](./gato.jpeg)
 
 Repositório de ideias para manter o sentimento vivo. <3
