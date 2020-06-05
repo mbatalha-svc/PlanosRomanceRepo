@@ -1,3 +1,6 @@
 Porquinho de Pelúcia
-Kit Primeiros Socorros para a garganta
+Kit Primeiros Socorros para a garganta {
+	Camomila
+	Pedra Hume
+}
 24 flores de aniversário
