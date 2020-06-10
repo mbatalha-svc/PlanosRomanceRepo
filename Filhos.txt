@@ -1,4 +1,8 @@
-Álvaro
+Álvaro{
+	18/04/2020
+	
+	Brinquedo de morder
+}
 Bárbara
 João Gabriel
 Maria Cecília
